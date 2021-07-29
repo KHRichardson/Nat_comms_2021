@@ -6,7 +6,7 @@
 % Description of file structure and how to use
 
 % esfit_t_elongatus - fits signal weighting for the 3 [4Fe-4S] clusters in PS-CI from T. elongatus
-% esfit_synechochystis - fits signal weighting for the 3 [4Fe-4S] clusters in PS-CI from Synechochystis 
+% esfit_synechocystis - fits signal weighting for the 3 [4Fe-4S] clusters in PS-CI from Synechochystis 
 % Requires easyspin 
 
 % Fit weigthings input into:
@@ -14,7 +14,7 @@
 
 % Plotting is based on:
 % plot_t_elongatus - plot raw data, simulated data or a combination of both for the 3 [4Fe-4S] clusters in PS-CI from T. elongatus
-% plot_synechochystis - plot raw data, simulated data or a combination for the 3 [4Fe-4S] clusters in PS-CI from Synechochystis 
+% plot_synechocystis - plot raw data, simulated data or a combination for the 3 [4Fe-4S] clusters in PS-CI from Synechochystis 
 
 % Relative intensites calcuated using:
 % peakmatrix - calcuate the peak to peak heights for [4Fe-4S] EPR signals defined by user
