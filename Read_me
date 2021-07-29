@@ -23,5 +23,5 @@
 % Basic scaling and g value calculation uses the functions:
 % scale
 % cwsacle 
-% EPR_fit_rhombic
+% EPR_fitfnc_rhombic
 % calcg
